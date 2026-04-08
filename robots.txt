@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://smajerowicz.github.io/al-folio/sitemap.xml
+Sitemap: https://christianresch.github.io/smajerowicz.github.io/sitemap.xml
