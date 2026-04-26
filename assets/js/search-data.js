@@ -59,11 +59,16 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "",
+      },{id: "projects-british-council-project",
+          title: 'British Council Project',
+          description: "Placeholder description for the British Council Project.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/british-council-project/";
+            },},{id: "teachings-impact-evaluation-evaluación-de-políticas-públicas",
+          title: 'Impact Evaluation (Evaluación de Políticas Públicas)',
+          description: "This course covers the foundational aspects of impact evaluation.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
+              window.location.href = "/teachings/impact-evaluation-2026-spring/";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
