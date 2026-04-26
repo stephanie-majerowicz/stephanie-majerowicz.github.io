@@ -20,12 +20,14 @@ _(nothing actively in progress)_
 Site identity and configuration:
 
 - [ ] Update `_data/socials.yml` — real email, CV PDF path, Google Scholar ID; remove placeholder custom social link
-- [ ] Upload Stephanie's profile photo as `assets/img/prof_pic.jpg`
+- [x] Upload Stephanie's profile photo as `assets/img/prof_pic.jpg`
 - [ ] Upload Stephanie's CV PDF to `assets/pdf/` and set path in `_data/socials.yml`
 
 About page:
 
-- [ ] Rewrite `_pages/about.md` — bio text, subtitle/title, and `profile.more_info` (office/contact)
+- [x] Update `_pages/about.md` subtitle — "Assistant Professor, School of Government, Universidad de los Andes"
+- [ ] Rewrite `_pages/about.md` body — bio text (2–4 paragraphs)
+- [ ] Fill in `profile.more_info` — office number and address
 
 Publications:
 

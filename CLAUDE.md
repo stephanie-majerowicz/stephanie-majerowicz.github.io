@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## This Site
 
-This is the personal academic website of **Stephanie Majerowicz**, an economist at Universidad de los Andes, Bogotá. It is built on the [al-folio](https://github.com/alshedivat/al-folio) Jekyll theme and deployed via GitHub Pages.
+This is the personal academic website of **Stephanie Majerowicz**, Assistant Professor at the School of Government, Universidad de los Andes, Bogotá. It is built on the [al-folio](https://github.com/alshedivat/al-folio) Jekyll theme and deployed via GitHub Pages.
 
 **Key site files to customize:**
 
@@ -16,6 +16,10 @@ This is the personal academic website of **Stephanie Majerowicz**, an economist 
 - `_data/cv.yml` – CV in RenderCV format
 - `_data/socials.yml` – Social media links
 - `assets/img/prof_pic.jpg` – Profile picture
+
+## At the start of every session
+
+Read `BACKLOG.md` and check for any completed items that haven't been ticked off, and any in-progress items that may have been finished since the last session. Use this to orient yourself before taking any action.
 
 ## Essential Commands
 
