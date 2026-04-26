@@ -2,29 +2,25 @@
 
 ## In progress
 
-_(nothing actively in progress — repo is a fresh template fork)_
+_(nothing actively in progress)_
 
 ---
 
-## Up next
+## Up next — needs Stephanie's content
 
 Site identity and configuration:
 
-- [ ] Fix `url` and `baseurl` in `_config.yml` (currently set to Christian's GitHub URL)
-- [ ] Update `_config.yml` — site title, description, scholar name (`last_name: [Majerowicz]`), and `first_name`
 - [ ] Update `_data/socials.yml` — real email, CV PDF path, Google Scholar ID; remove placeholder custom social link
 - [ ] Upload Stephanie's profile photo as `assets/img/prof_pic.jpg`
 - [ ] Upload Stephanie's CV PDF to `assets/pdf/` and set path in `_data/socials.yml`
 
 About page:
 
-- [ ] Rewrite `_pages/about.md` — bio text, subtitle (affiliation), and `profile.more_info` (office/contact)
-- [ ] Disable `latest_posts` section in `_pages/about.md` (no blog planned)
-- [ ] Decide whether to keep the `announcements` section (could be used for new papers / news)
+- [ ] Rewrite `_pages/about.md` — bio text, subtitle/title, and `profile.more_info` (office/contact)
 
 Publications:
 
-- [ ] Replace all Einstein placeholder entries in `_bibliography/papers.bib` with Stephanie's actual publications
+- [ ] Add Stephanie's publications to `_bibliography/papers.bib`
 - [ ] Add working papers and submitted work as `@unpublished` entries with `note = {Under review at ...}`
 - [ ] Add grey literature / policy reports as `@techreport` entries with `institution` field
 - [ ] Update `_data/coauthors.yml` with Stephanie's collaborators
@@ -33,44 +29,22 @@ Publications:
 
 Research Projects:
 
-- [ ] Delete all placeholder files in `_projects/` (1_project.md through 9_project.md)
-- [ ] Create new `_projects/` files for Stephanie's actual research projects
-- [ ] Set project categories (e.g. `ongoing`, `completed`) and update `display_categories` in `_pages/projects.md`
-- [ ] Rename page title from "projects" to "research" in `_pages/projects.md` frontmatter
-- [ ] Source or create images for project cards (or remove `img:` from frontmatter to use text-only cards)
+- [ ] Create `_projects/` files for Stephanie's actual research projects (category: `ongoing` or `completed`)
+- [ ] Source or create images for project cards (or omit `img:` for text-only cards)
 
 Impact page:
 
-- [ ] Create `_pages/impact.md` with `layout: page`, `nav: true`, `nav_order: 4`
-- [ ] Populate with policy briefs, media mentions, datasets, talks, and outreach (placeholder structure first)
+- [ ] Populate `_pages/impact.md` — policy briefs, media mentions, datasets, talks
 
 Teaching page:
 
-- [ ] Update `_pages/teaching.md` — set nav order, clear Google Calendar placeholder and template text
-- [ ] Create course entries in `_teachings/` — one `.md` file per course with title, description, academic year, and type (undergraduate / graduate)
+- [ ] Create course entries in `_teachings/` — one `.md` file per course with title, description, academic year, type
 - [ ] Decide what to show per course: syllabus PDF link, semester listing, brief description, or full materials page
 - [ ] Upload any syllabus PDFs to `assets/pdf/`
 
-Cleanup — remove unused template pages from nav:
+CV data:
 
-- [ ] `_pages/blog.md` — set `nav: false`
-- [ ] `_pages/cv.md` — set `nav: false` (CV is a linked PDF, not a rendered page)
-- [ ] `_pages/teaching.md` — keep but clear placeholder content; will be built out as a real page
-- [ ] `_pages/books.md` — set `nav: false` or delete
-- [ ] `_pages/profiles.md` — set `nav: false` or delete
-- [ ] `_pages/repositories.md` — set `nav: false` or delete
-- [ ] `_pages/dropdown.md` — delete (template demo only)
-- [ ] `_pages/about_einstein.md` — already excluded in `_config.yml`, confirm or delete
-- [ ] Delete all placeholder blog posts in `_posts/`
-- [ ] Delete all placeholder news items in `_news/` and replace if keeping announcements section
-- [ ] Delete placeholder book in `_books/the_godfather.md`
 - [ ] Update `_data/cv.yml` — replace Einstein placeholder with Stephanie's CV data
-
-Final checks before going live:
-
-- [ ] Run `npx prettier . --write` before first real commit
-- [ ] Build locally with Docker and verify all pages render correctly
-- [ ] Confirm GitHub Actions deploy workflow succeeds on push to `main`
 
 ---
 
@@ -92,3 +66,24 @@ Final checks before going live:
 - Giscus comments on publications or blog posts
 - Newsletter integration (Loops)
 - Jupyter notebook embedding for data-driven research write-ups
+
+---
+
+## Completed
+
+- [x] Fix `url` and `baseurl` in `_config.yml`
+- [x] Update `_config.yml` — scholar name set to `[Majerowicz]`
+- [x] Delete all placeholder project files (`_projects/1_project.md` … `9_project.md`)
+- [x] Delete all placeholder blog posts in `_posts/`
+- [x] Delete all placeholder news items in `_news/`
+- [x] Delete placeholder book (`_books/the_godfather.md`)
+- [x] Clear `_bibliography/papers.bib` — removed Einstein entries
+- [x] Clear `_data/coauthors.yml` — reset to commented stub
+- [x] Clear `_data/venues.yml` — reset to commented stub
+- [x] Set up `_pages/about.md` as clean placeholder (disabled blog/announcements, labelled placeholders)
+- [x] Rename Research page (`projects` → `research`, nav_order 2, categories: ongoing/completed)
+- [x] Set Publications to nav_order 3
+- [x] Create `_pages/impact.md` (nav_order 4, section headings placeholder)
+- [x] Update `_pages/teaching.md` — removed Google Calendar embed and placeholder text, nav_order 5
+- [x] Set `nav: false` on blog, cv, profiles, repositories pages
+- [x] Delete `_pages/dropdown.md`

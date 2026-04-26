@@ -2,14 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses taught at Universidad de los Andes and other institutions.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 5
 ---
-
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
 {% include courses.liquid %}
