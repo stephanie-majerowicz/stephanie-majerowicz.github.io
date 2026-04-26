@@ -186,8 +186,12 @@ kramdown:
 include: ["_pages", "_scripts"]
 exclude:
   - bin/
+  - AGENTS.md
+  - BACKLOG.md
+  - CLAUDE.md
   - CONTRIBUTING.md
   - CUSTOMIZE.md
+  - DECISIONS.md
   - Dockerfile
   - docker-compose.yml
   - docker-compose-slim.yml

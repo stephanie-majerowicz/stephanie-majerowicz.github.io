@@ -34,7 +34,7 @@ Publications:
 - [ ] Add grey literature / policy reports as `@techreport` entries with `institution` field
 - [ ] Update `_data/coauthors.yml` with Stephanie's collaborators
 - [ ] Update `_data/venues.yml` with relevant economics journal abbreviations
-- [ ] Customize `_pages/publications.md` to show separate sections (published / under review / working papers) using filtered `{% bibliography --query %}` calls
+- [ ] Customize `_pages/publications.md` to show separate sections (published / under review / working papers) using filtered bibliography query calls
 
 Research Projects:
 
