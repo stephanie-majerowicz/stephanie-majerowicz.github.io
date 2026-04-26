@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://christianresch.github.io/smajerowicz.github.io/sitemap.xml
