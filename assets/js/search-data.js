@@ -64,6 +64,11 @@ ninja.data = [{
           description: "Placeholder description for the British Council Project.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/british-council-project/";
+            },},{id: "projects-early-childhood-education-program-quot-educuna-quot-rct",
+          title: 'Early Childhood Education Program &amp;quot;Educuna&amp;quot; (RCT)',
+          description: "Evaluating a new early childhood education model in Peru using randomized assignment of slots in oversubscribed centers.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/early-childhood-education-educuna/";
             },},{id: "teachings-impact-evaluation-evaluación-de-políticas-públicas",
           title: 'Impact Evaluation (Evaluación de Políticas Públicas)',
           description: "This course covers the foundational aspects of impact evaluation.",
