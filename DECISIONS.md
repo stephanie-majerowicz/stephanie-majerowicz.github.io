@@ -18,8 +18,10 @@ Decisions inferred from the repository as initialized:
 - **Profile image: rectangular** — `image_circular: false` in `_pages/about.md`.
 - **Analytics: all disabled** — No Google Analytics, Cronitor, Pirsch, or Openpanel configured yet; can be added once the site is live.
 - **Comments: not configured** — Giscus repo/category fields left blank; blog-style commenting not needed for an academic portfolio.
-- **URL config: placeholder, needs fix** — `url` is currently set to `https://christianresch.github.io` and `baseurl` to `/smajerowicz.github.io`; must be corrected before deployment.
+- **URL config: corrected (2026-04-26)** — `url` set to `https://stephanie-majerowicz.github.io`, `baseurl` left empty; matches a personal GitHub Pages site.
 - **Teaching: include as a nav page** — Stephanie needs a teaching page listing courses taught; the template's `_pages/teaching.md` + `_teachings/` collection will be kept and populated rather than removed.
+
+- **Project collaborators: plain-text front matter field** — Added `collaborators:` to `_projects/*.md` front matter, rendered as *"with [name]"* on the card below the title. Chosen over a structured list (name + affiliation as separate keys) for simplicity; plain text is easy for Stephanie to edit directly in the browser. Can be restructured later if linking to collaborator profiles becomes a requirement.
 
 ---
 
