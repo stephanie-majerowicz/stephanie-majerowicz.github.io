@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  [TITLE], <a href="https://economia.uniandes.edu.co/">Department of Economics</a>,
+  Assistant Professor, <a href="https://gobierno.uniandes.edu.co//">School of Government</a>,
   Universidad de los Andes, Bogotá
 
 profile:
