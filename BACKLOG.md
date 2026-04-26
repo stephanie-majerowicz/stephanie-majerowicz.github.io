@@ -6,6 +6,15 @@ _(nothing actively in progress)_
 
 ---
 
+## Up next — one-time technical setup (before going live)
+
+- [ ] Confirm GitHub Pages is set to deploy from **`gh-pages` branch** (Settings → Pages → Source → "Deploy from a branch" → `gh-pages` / `/(root)`)
+- [x] Write new README.md for Stephanie — owner-facing guide covering: page map, how to edit each content type via browser, how to track deploy status, what to do if something looks broken
+  - Explicitly explain the GitHub browser edit flow: navigate to a file → click the pencil icon → make changes → commit to `main` → site rebuilds automatically in ~5 minutes
+  - Note: README edits do not trigger a deploy, so it's safe to iterate on
+
+---
+
 ## Up next — needs Stephanie's content
 
 Site identity and configuration:
