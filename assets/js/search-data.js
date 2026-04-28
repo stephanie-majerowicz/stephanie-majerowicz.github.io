@@ -59,16 +59,46 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "projects-british-council-project",
-          title: 'British Council Project',
-          description: "Placeholder description for the British Council Project.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/british-council-project/";
-            },},{id: "projects-early-childhood-education-program-quot-educuna-quot-rct",
-          title: 'Early Childhood Education Program &amp;quot;Educuna&amp;quot; (RCT)',
-          description: "Evaluating a new early childhood education model in Peru using randomized assignment of slots in oversubscribed centers.",
+      },{id: "projects-experimental-evaluation-of-an-early-childhood-education-program-in-peru",
+          title: 'Experimental Evaluation of an Early Childhood Education Program in Peru',
+          description: "Evaluating a new early childhood education model (Educuna) in partnership with the Peruvian government using randomized assignment of slots in oversubscribed centers.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/early-childhood-education-educuna/";
+            },},{id: "projects-impact-evaluations-of-english-learning-interventions-in-colombia",
+          title: 'Impact Evaluations of English Learning Interventions in Colombia',
+          description: "A multi-year research agenda of experimental and quasi-experimental evaluations of English language training programs in Colombia.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/english-learning-interventions/";
+            },},{id: "projects-jóvenes-a-la-u-scholarship-access-to-higher-education-in-colombia",
+          title: 'Jóvenes a la U: Scholarship Access to Higher Education in Colombia',
+          description: "Evaluating the impact of Bogotá&#39;s scholarship program on access to and persistence in higher education.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/jovenes-a-la-u/";
+            },},{id: "projects-massive-open-online-courses-and-labor-market-outcomes-evidence-from-colombia",
+          title: 'Massive Open Online Courses and Labor Market Outcomes: Evidence from Colombia',
+          description: "Studying the impact of MOOC certificates on formal labor employment using an RCT with ~21,000 applicants.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/moocs-labor-market/";
+            },},{id: "projects-parental-engagement-intervention-for-early-childhood-language-development",
+          title: 'Parental Engagement Intervention for Early Childhood Language Development',
+          description: "Evaluating a low-cost behavioral intervention to improve early childhood language development by promoting parent-child interaction in Peru.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/parental-engagement/";
+            },},{id: "projects-impact-of-a-pedagogical-coaching-program-on-learning-outcomes-in-peru",
+          title: 'Impact of a Pedagogical Coaching Program on Learning Outcomes in Peru',
+          description: "Evaluating the short and long-run effects of a large-scale pedagogical coaching program implemented in rural Peru.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pedagogical-coaching-peru/";
+            },},{id: "projects-the-effect-of-a-preschool-expansion-on-early-learning-outcomes-in-peru",
+          title: 'The Effect of a Preschool Expansion on Early Learning Outcomes in Peru',
+          description: "Examining the short- and long-term impacts of expanded access to preschool education in Peru on educational attainment and later-life outcomes.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/preschool-expansion-peru/";
+            },},{id: "projects-regular-psychological-support-and-student-outcomes-in-peru",
+          title: 'Regular Psychological Support and Student Outcomes in Peru',
+          description: "Studying the impact of a large-scale randomized program that assigned full-time school psychologists to high-violence public secondary schools in Peru.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/school-psychologists-peru/";
             },},{id: "teachings-impact-evaluation-evaluación-de-políticas-públicas",
           title: 'Impact Evaluation (Evaluación de Políticas Públicas)',
           description: "This course covers the foundational aspects of impact evaluation.",
