@@ -31,14 +31,14 @@ About page:
 
 Research Projects (8 total; 2 files exist and need updating, 6 new files needed):
 
-- [ ] Update `british-council-project.md` → rename/rewrite as "English Learning Interventions" (umbrella project with Sandra García, Darío Maldonado, Andrés Ham)
-- [ ] Update `early-childhood-education-educuna.md` with doc content (Maria Adelaida Martinez, Bentley University)
-- [ ] Create `jovenes-a-la-u.md` — Jóvenes a la U scholarship program (with Sandra García, Darío Maldonado); link to working paper at gobierno.uniandes.edu.co/apuntes-de-gestion-y-politicas-publicas-no-14/
-- [ ] Create `moocs-labor-market.md` — MOOCs and Labor Market Outcomes (with Román Andrés Zárate; R&R The Economic Journal); include abstract and PDF link
-- [ ] Create `pedagogical-coaching-peru.md` — Pedagogical Coaching in Peru (ongoing/completed); link to Quantitative Economics publication — **BLOCKED: need full citation from Stephanie**
-- [ ] Create `school-psychologists-peru.md` — Regular Psychological Support and Student Outcomes (with Clementine Van Enteferre, Román Andrés Zárate, Jonathan Enriquez); include abstract
-- [ ] Create `parental-engagement.md` — Parental Engagement Intervention (with DIL and BIP labs, Chicago)
-- [ ] Create `preschool-expansion-peru.md` — Preschool Expansion in Peru (with Claude Raisaro, Geneva Graduate Institute); include abstract
+- [x] Update `british-council-project.md` → renamed/rewritten as `english-learning-interventions.md` (with Sandra García, Darío Maldonado, Andrés Ham)
+- [x] Update `early-childhood-education-educuna.md` with doc content (Maria Adelaida Martinez, Bentley University)
+- [x] Create `jovenes-a-la-u.md` — Jóvenes a la U scholarship program (with Sandra García, Darío Maldonado)
+- [x] Create `moocs-labor-market.md` — MOOCs and Labor Market Outcomes (with Román Andrés Zárate; R&R The Economic Journal)
+- [x] Create `pedagogical-coaching-peru.md` — Pedagogical Coaching in Peru; Quantitative Economics publication noted — **full citation still needed from Stephanie**
+- [x] Create `school-psychologists-peru.md` — Regular Psychological Support and Student Outcomes (with Clementine Van Enteferre, Román Andrés Zárate, Jonathan Enriquez)
+- [x] Create `parental-engagement.md` — Parental Engagement Intervention (with DIL and BIP labs, Chicago)
+- [x] Create `preschool-expansion-peru.md` — Preschool Expansion in Peru (with Claude Raisaro, Geneva Graduate Institute)
 - [ ] Assign project categories (`ongoing` / `completed`) — **needs Stephanie's call** (suggested: Pedagogical Coaching + Jóvenes a la U = completed; rest = ongoing)
 - [ ] Extract photos from docx and save to `assets/img/` — 2 photos available (rural school exterior, colorful classroom); assign to project cards — **needs Stephanie's call on which photo goes where**
 
