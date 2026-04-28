@@ -4,6 +4,7 @@ title: The Effect of a Preschool Expansion on Early Learning Outcomes in Peru
 description: Examining the short- and long-term impacts of expanded access to preschool education in Peru on educational attainment and later-life outcomes.
 importance: 8
 category: ongoing
+img: assets/img/preschool-expansion-peru.jpg
 collaborators: Claude Raisaro, Geneva Graduate Institute
 ---
 
