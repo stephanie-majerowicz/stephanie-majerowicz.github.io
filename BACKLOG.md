@@ -87,7 +87,8 @@ Teaching page:
 - Decide on and implement a consistent color theme (`_sass/_themes.scss`)
 - Set up Google Scholar citation auto-update workflow (currently configured for Einstein's ID)
 - [x] Add structured data / Open Graph metadata (`serve_og_meta`, `serve_schema_org` in `_config.yml`)
-- SEO configuration (`robots.txt`, Google Search Console verification)
+- [x] SEO configuration — `robots.txt` verified (allows all crawlers, sitemap linked)
+- [ ] SEO configuration — Google Search Console verification (add ID to `_config.yml:83`)
 - Fill in `_data/cv.yml` to enable interactive HTML CV page at `/cv/` (currently hidden from nav; PDF already works as download)
 
 ---
