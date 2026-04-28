@@ -74,7 +74,7 @@ Teaching page:
 ## Up next — small fixes
 
 - [ ] Atom emoji still appears in Safari — investigate and remove (likely in `_config.yml` or a layout/include file)
-- [ ] Update footer "contact" note — replace the default "Little note about how to contact you" placeholder with Stephanie's own text
+- [x] Update footer "contact" note — removed placeholder, left blank
 - [ ] Update footer after copyright — adapt the text that follows the copyright notice at the bottom of every page
 
 ---

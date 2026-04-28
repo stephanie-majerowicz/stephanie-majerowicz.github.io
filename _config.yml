@@ -6,8 +6,7 @@ title: Stephanie Majerowicz # the website title (if blank, full name will be use
 first_name: Stephanie
 last_name: Majerowicz
 email: s.majerowicz@uniandes.edu.co
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Assistant Professor at the School of Government, Universidad de los Andes. Research on education, labor markets, and public policy in Latin America.
 footer_text: >
