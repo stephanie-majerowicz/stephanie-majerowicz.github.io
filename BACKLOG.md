@@ -8,7 +8,7 @@ _(nothing actively in progress)_
 
 ## Up next — one-time technical setup (before going live)
 
-- [ ] Confirm GitHub Pages is set to deploy from **`gh-pages` branch** (Settings → Pages → Source → "Deploy from a branch" → `gh-pages` / `/(root)`)
+- [x] Confirm GitHub Pages is set to deploy from **`gh-pages` branch** (Settings → Pages → Source → "Deploy from a branch" → `gh-pages` / `/(root)`)
 - [x] Write new README.md for Stephanie — owner-facing guide covering: page map, how to edit each content type via browser, how to track deploy status, what to do if something looks broken
   - Explicitly explain the GitHub browser edit flow: navigate to a file → click the pencil icon → make changes → commit to `main` → site rebuilds automatically in ~5 minutes
   - Note: README edits do not trigger a deploy, so it's safe to iterate on
@@ -68,10 +68,6 @@ Teaching page:
 - [ ] Decide what to show per course: syllabus PDF link, semester listing, brief description, or full materials page
 - [ ] Upload any syllabus PDFs to `assets/pdf/`
 
-CV data:
-
-- [ ] Update `_data/cv.yml` — replace Einstein placeholder with Stephanie's CV data
-
 ---
 
 ## Later — break down when we get here
@@ -81,7 +77,7 @@ CV data:
 - Set up Google Scholar citation auto-update workflow (currently configured for Einstein's ID)
 - Add structured data / Open Graph metadata (`serve_og_meta`, `serve_schema_org` in `_config.yml`)
 - SEO configuration (`robots.txt`, Google Search Console verification)
-- Review and update `_data/cv.yml` to sync with PDF CV
+- Fill in `_data/cv.yml` to enable interactive HTML CV page at `/cv/` (currently hidden from nav; PDF already works as download)
 
 ---
 
