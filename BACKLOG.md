@@ -53,7 +53,7 @@ Publications (papers to add to `_bibliography/papers.bib`):
 - [x] Update `_data/coauthors.yml` — Zárate linked; others commented pending URLs
 - [x] Update `_data/venues.yml` — The Economic Journal (TEJ), EEPA, Quantitative Economics (QE)
 - [x] Customize `_pages/publications.md` — sections: under review / working papers / policy reports
-- [ ] Add abstract to QE article (`castro2025teaching`) — Stephanie to provide
+- [x] Add abstract to QE article (`castro2025teaching`) — Stephanie to provide
 
 ---
 
