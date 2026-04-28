@@ -15,37 +15,52 @@ _(nothing actively in progress)_
 
 ---
 
-## Up next — needs Stephanie's content
+## Up next — integrate content from "Website Summaries.docx"
+
+Content from Stephanie's document is ready to implement. Blocked items are flagged.
 
 Site identity and configuration:
 
-- [ ] Update `_data/socials.yml` — real email, CV PDF path, Google Scholar ID
-- [x] Upload Stephanie's profile photo as `assets/img/prof_pic.jpg`
-- [x] Upload Stephanie's CV PDF to `assets/pdf/` and set path in `_pages/cv.md`
+- [x] Update `_data/socials.yml` — email (`s.majerowicz@uniandes.edu.co`), Google Scholar ID (`UHJ35nUAAAAJ`), CV PDF path (already uploaded)
 
 About page:
 
 - [x] Update `_pages/about.md` subtitle — "Assistant Professor, School of Government, Universidad de los Andes"
-- [ ] Rewrite `_pages/about.md` body — bio text (2–4 paragraphs)
-- [ ] Fill in `profile.more_info` — office number and address
+- [x] Write bio in `_pages/about.md` — 3 paragraphs from the doc (applied microeconomist, education/labor/policy, causal inference + govt collaboration)
+- [x] Fill in `profile.more_info` — Edificio Aulas 215, Carrera 1a # 19-27, Bloque AU, Bogotá
 
-Publications:
+Research Projects (8 total; 2 files exist and need updating, 6 new files needed):
 
-- [ ] Add Stephanie's publications to `_bibliography/papers.bib`
-- [ ] Add working papers and submitted work as `@unpublished` entries with `note = {Under review at ...}`
-- [ ] Add grey literature / policy reports as `@techreport` entries with `institution` field
-- [ ] Update `_data/coauthors.yml` with Stephanie's collaborators
-- [ ] Update `_data/venues.yml` with relevant economics journal abbreviations
-- [ ] Customize `_pages/publications.md` to show separate sections (published / under review / working papers) using filtered bibliography query calls
+- [ ] Update `british-council-project.md` → rename/rewrite as "English Learning Interventions" (umbrella project with Sandra García, Darío Maldonado, Andrés Ham)
+- [ ] Update `early-childhood-education-educuna.md` with doc content (Maria Adelaida Martinez, Bentley University)
+- [ ] Create `jovenes-a-la-u.md` — Jóvenes a la U scholarship program (with Sandra García, Darío Maldonado); link to working paper at gobierno.uniandes.edu.co/apuntes-de-gestion-y-politicas-publicas-no-14/
+- [ ] Create `moocs-labor-market.md` — MOOCs and Labor Market Outcomes (with Román Andrés Zárate; R&R The Economic Journal); include abstract and PDF link
+- [ ] Create `pedagogical-coaching-peru.md` — Pedagogical Coaching in Peru (ongoing/completed); link to Quantitative Economics publication — **BLOCKED: need full citation from Stephanie**
+- [ ] Create `school-psychologists-peru.md` — Regular Psychological Support and Student Outcomes (with Clementine Van Enteferre, Román Andrés Zárate, Jonathan Enriquez); include abstract
+- [ ] Create `parental-engagement.md` — Parental Engagement Intervention (with DIL and BIP labs, Chicago)
+- [ ] Create `preschool-expansion-peru.md` — Preschool Expansion in Peru (with Claude Raisaro, Geneva Graduate Institute); include abstract
+- [ ] Assign project categories (`ongoing` / `completed`) — **needs Stephanie's call** (suggested: Pedagogical Coaching + Jóvenes a la U = completed; rest = ongoing)
+- [ ] Extract photos from docx and save to `assets/img/` — 2 photos available (rural school exterior, colorful classroom); assign to project cards — **needs Stephanie's call on which photo goes where**
 
-Research Projects:
+Publications (papers to add to `_bibliography/papers.bib`):
 
-- [ ] Create `_projects/` files for Stephanie's actual research projects (category: `ongoing` or `completed`)
-- [ ] Source or create images for project cards (or omit `img:` for text-only cards)
+- [ ] Add MOOC paper as `@unpublished` — "Massive Open Online Courses and Labor Market Outcomes: Evidence from Colombia" (with Zárate; R&R The Economic Journal; PDF: razarate.com link)
+- [ ] Add English workforce training paper as `@unpublished` — R&R at Educational Evaluation and Policy Analysis (with García, Ham, Maldonado)
+- [ ] Add experimental English evaluation paper as `@unpublished` — in preparation (with García, Maldonado)
+- [ ] Add preschool expansion paper as `@unpublished` — working paper (with Raisaro)
+- [ ] Add Pedagogical Coaching paper as `@article` — published in Quantitative Economics — **BLOCKED: need full citation (authors, year, volume, DOI)**
+- [ ] Add 2 policy working papers as `@techreport` — Documentos de Trabajo EGOB No. 124 and No. 127 (links available)
+- [ ] Update `_data/coauthors.yml` — Sandra García, Darío Maldonado, Andrés Ham, Román Andrés Zárate, Clementine Van Enteferre, Jonathan Enriquez, Maria Adelaida Martinez, Claude Raisaro
+- [ ] Update `_data/venues.yml` — The Economic Journal, Educational Evaluation and Policy Analysis, Quantitative Economics
+- [ ] Customize `_pages/publications.md` — separate sections: published / under review / working papers / policy reports
+
+---
+
+## Up next — needs Stephanie's content (other)
 
 Impact page:
 
-- [ ] Populate `_pages/impact.md` — policy briefs, media mentions, datasets, talks
+- [ ] Populate `_pages/impact.md` — policy briefs, media mentions, datasets, talks (some content from doc can be used here too: working papers, policy dissemination notes)
 
 Teaching page:
 
