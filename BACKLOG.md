@@ -75,7 +75,7 @@ Teaching page:
 
 - [ ] Atom emoji still appears in Safari — investigate and remove (likely in `_config.yml` or a layout/include file)
 - [x] Update footer "contact" note — removed placeholder, left blank
-- [ ] Update footer after copyright — adapt the text that follows the copyright notice at the bottom of every page
+- [x] Update footer after copyright — removed boilerplate Jekyll/GitHub/Unsplash attribution, footer now shows copyright only
 
 ---
 

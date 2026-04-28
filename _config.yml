@@ -9,10 +9,7 @@ email: s.majerowicz@uniandes.edu.co
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Assistant Professor at the School of Government, Universidad de los Andes. Research on education, labor markets, and public policy in Latin America.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+footer_text:
 keywords: economist, education policy, labor markets, Latin America, causal inference, public policy, Universidad de los Andes
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
