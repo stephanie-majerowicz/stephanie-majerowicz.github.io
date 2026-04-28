@@ -53,6 +53,7 @@ Publications (papers to add to `_bibliography/papers.bib`):
 - [x] Update `_data/coauthors.yml` — Zárate linked; others commented pending URLs
 - [x] Update `_data/venues.yml` — The Economic Journal (TEJ), EEPA, Quantitative Economics (QE)
 - [x] Customize `_pages/publications.md` — sections: under review / working papers / policy reports
+- [ ] Add abstract to QE article (`castro2025teaching`) — Stephanie to provide
 
 ---
 
@@ -67,6 +68,14 @@ Teaching page:
 - [ ] Create course entries in `_teachings/` — one `.md` file per course with title, description, academic year, type
 - [ ] Decide what to show per course: syllabus PDF link, semester listing, brief description, or full materials page
 - [ ] Upload any syllabus PDFs to `assets/pdf/`
+
+---
+
+## Up next — small fixes
+
+- [ ] Atom emoji still appears in Safari — investigate and remove (likely in `_config.yml` or a layout/include file)
+- [ ] Update footer "contact" note — replace the default "Little note about how to contact you" placeholder with Stephanie's own text
+- [ ] Update footer after copyright — adapt the text that follows the copyright notice at the bottom of every page
 
 ---
 
