@@ -3,3 +3,15 @@
 # "ABBR":
 #   url: https://journal-url.com
 #   color: "#hex"
+
+"TEJ":
+  url: https://academic.oup.com/ej
+  color: "#1a4f8a"
+
+"EEPA":
+  url: https://journals.sagepub.com/home/epa
+  color: "#2e7d32"
+
+"QE":
+  url: https://onlinelibrary.wiley.com/journal/17597331
+  color: "#6a1b9a"

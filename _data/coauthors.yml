@@ -4,3 +4,30 @@
 # "lastname":
 #   - firstname: ["Full Name", "F.", "Initials"]
 #     url: https://their-website.com
+
+"Zárate":
+  - firstname: ["Román Andrés Zárate", "Román Andrés", "R.A."]
+    url: https://www.razarate.com
+
+# URLs not yet confirmed for the following collaborators — add when available:
+# "García":
+#   - firstname: ["Sandra García", "Sandra", "S."]
+#     url:
+# "Maldonado":
+#   - firstname: ["Darío Maldonado", "Darío", "D."]
+#     url:
+# "Ham":
+#   - firstname: ["Andrés Ham", "Andrés", "A."]
+#     url:
+# "Van Enteferre":
+#   - firstname: ["Clementine Van Enteferre", "Clementine", "C."]
+#     url:
+# "Enriquez":
+#   - firstname: ["Jonathan Enriquez", "Jonathan", "J."]
+#     url:
+# "Martinez":
+#   - firstname: ["Maria Adelaida Martinez", "Maria Adelaida", "M.A."]
+#     url:
+# "Raisaro":
+#   - firstname: ["Claude Raisaro", "Claude", "C."]
+#     url:

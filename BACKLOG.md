@@ -44,15 +44,15 @@ Research Projects (8 total; 2 files exist and need updating, 6 new files needed)
 
 Publications (papers to add to `_bibliography/papers.bib`):
 
-- [ ] Add MOOC paper as `@unpublished` — "Massive Open Online Courses and Labor Market Outcomes: Evidence from Colombia" (with Zárate; R&R The Economic Journal; PDF: razarate.com link)
-- [ ] Add English workforce training paper as `@unpublished` — R&R at Educational Evaluation and Policy Analysis (with García, Ham, Maldonado)
-- [ ] Add experimental English evaluation paper as `@unpublished` — in preparation (with García, Maldonado)
-- [ ] Add preschool expansion paper as `@unpublished` — working paper (with Raisaro)
+- [x] Add MOOC paper as `@unpublished` — R&R The Economic Journal
+- [x] Add English workforce training paper as `@unpublished` — R&R at Educational Evaluation and Policy Analysis
+- [x] Add experimental English evaluation paper as `@unpublished` — in preparation
+- [x] Add preschool expansion paper as `@unpublished` — working paper
 - [ ] Add Pedagogical Coaching paper as `@article` — published in Quantitative Economics — **BLOCKED: need full citation (authors, year, volume, DOI)**
-- [ ] Add 2 policy working papers as `@techreport` — Documentos de Trabajo EGOB No. 124 and No. 127 (links available)
-- [ ] Update `_data/coauthors.yml` — Sandra García, Darío Maldonado, Andrés Ham, Román Andrés Zárate, Clementine Van Enteferre, Jonathan Enriquez, Maria Adelaida Martinez, Claude Raisaro
-- [ ] Update `_data/venues.yml` — The Economic Journal, Educational Evaluation and Policy Analysis, Quantitative Economics
-- [ ] Customize `_pages/publications.md` — separate sections: published / under review / working papers / policy reports
+- [x] Add 2 policy working papers as `@techreport` — Documentos de Trabajo EGOB No. 124 and No. 127
+- [x] Update `_data/coauthors.yml` — Zárate linked; others commented pending URLs
+- [x] Update `_data/venues.yml` — The Economic Journal (TEJ), EEPA, Quantitative Economics (QE)
+- [x] Customize `_pages/publications.md` — sections: under review / working papers / policy reports
 
 ---
 
