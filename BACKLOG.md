@@ -39,8 +39,8 @@ Research Projects (8 total; 2 files exist and need updating, 6 new files needed)
 - [x] Create `school-psychologists-peru.md` — Regular Psychological Support and Student Outcomes (with Clementine Van Enteferre, Román Andrés Zárate, Jonathan Enriquez)
 - [x] Create `parental-engagement.md` — Parental Engagement Intervention (with DIL and BIP labs, Chicago)
 - [x] Create `preschool-expansion-peru.md` — Preschool Expansion in Peru (with Claude Raisaro, Geneva Graduate Institute)
-- [ ] Assign project categories (`ongoing` / `completed`) — **needs Stephanie's call** (suggested: Pedagogical Coaching + Jóvenes a la U = completed; rest = ongoing)
-- [ ] Extract photos from docx and save to `assets/img/` — 2 photos available (rural school exterior, colorful classroom); assign to project cards — **needs Stephanie's call on which photo goes where**
+- [x] Assign project categories — Pedagogical Coaching = completed; all others = ongoing
+- [x] Extract photos from docx and save to `assets/img/` — school exterior → pedagogical coaching; classroom → preschool expansion
 
 Publications (papers to add to `_bibliography/papers.bib`):
 
