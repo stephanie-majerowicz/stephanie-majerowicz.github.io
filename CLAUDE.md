@@ -28,9 +28,6 @@ Read `BACKLOG.md` and check for any completed items that haven't been ticked off
 docker compose pull && docker compose up
 # → http://localhost:8080
 
-# Format code before committing (required by CI)
-npx prettier . --write
-
 # Stop dev server
 docker compose down
 ```
@@ -42,4 +39,3 @@ docker compose down
 - `url` and `baseurl` in `_config.yml` must be correct:
   - Personal site: `url: https://username.github.io`, `baseurl:` (empty)
   - Project site: `url: https://username.github.io`, `baseurl: /repo-name/`
-- The prettier CI check will fail PRs if code is not formatted — always run `npx prettier . --write` before committing
