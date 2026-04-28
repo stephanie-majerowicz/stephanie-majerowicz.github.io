@@ -61,10 +61,12 @@ Publications (papers to add to `_bibliography/papers.bib`):
 
 Impact page:
 
+- [x] Disable impact page (`nav: false`) — template kept, re-enable when content is ready
 - [ ] Populate `_pages/impact.md` — policy briefs, media mentions, datasets, talks (some content from doc can be used here too: working papers, policy dissemination notes)
 
 Teaching page:
 
+- [x] Disable teaching page (`nav: false`) — template kept, re-enable when content is ready
 - [ ] Create course entries in `_teachings/` — one `.md` file per course with title, description, academic year, type
 - [ ] Decide what to show per course: syllabus PDF link, semester listing, brief description, or full materials page
 - [ ] Upload any syllabus PDFs to `assets/pdf/`
