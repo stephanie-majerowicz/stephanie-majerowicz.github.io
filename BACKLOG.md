@@ -48,7 +48,7 @@ Publications (papers to add to `_bibliography/papers.bib`):
 - [x] Add English workforce training paper as `@unpublished` — R&R at Educational Evaluation and Policy Analysis
 - [x] Add experimental English evaluation paper as `@unpublished` — in preparation
 - [x] Add preschool expansion paper as `@unpublished` — working paper
-- [ ] Add Pedagogical Coaching paper as `@article` — published in Quantitative Economics — **BLOCKED: need full citation (authors, year, volume, DOI)**
+- [x] Add Pedagogical Coaching paper as `@article` — "Can teaching be taught?" Castro, Glewwe, Heredia-Mayo, Majerowicz, Montero. QE Vol. 16(1), pp. 185–233, 2025
 - [x] Add 2 policy working papers as `@techreport` — Documentos de Trabajo EGOB No. 124 and No. 127
 - [x] Update `_data/coauthors.yml` — Zárate linked; others commented pending URLs
 - [x] Update `_data/venues.yml` — The Economic Journal (TEJ), EEPA, Quantitative Economics (QE)

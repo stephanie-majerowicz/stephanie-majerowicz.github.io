@@ -10,6 +10,10 @@ nav_order: 3
 
 <div class="publications">
 
+<h2>Published</h2>
+
+{% bibliography --query @*[keywords=published] %}
+
 <h2>Under Review</h2>
 
 {% bibliography --query @*[keywords=under_review] %}
