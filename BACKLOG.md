@@ -75,7 +75,7 @@ Teaching page:
 
 ## Up next — small fixes
 
-- [ ] Atom emoji still appears in Safari — investigate and remove (likely in `_config.yml` or a layout/include file)
+- [x] Atom emoji still appears in Safari — Safari favicon cache; template serves empty SVG when icon is blank, new visitors unaffected; leave as-is
 - [x] Update footer "contact" note — removed placeholder, left blank
 - [x] Update footer after copyright — removed boilerplate Jekyll/GitHub/Unsplash attribution, footer now shows copyright only
 
