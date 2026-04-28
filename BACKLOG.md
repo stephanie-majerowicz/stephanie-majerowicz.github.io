@@ -21,7 +21,7 @@ Site identity and configuration:
 
 - [ ] Update `_data/socials.yml` — real email, CV PDF path, Google Scholar ID
 - [x] Upload Stephanie's profile photo as `assets/img/prof_pic.jpg`
-- [ ] Upload Stephanie's CV PDF to `assets/pdf/` and set path in `_data/socials.yml`
+- [x] Upload Stephanie's CV PDF to `assets/pdf/` and set path in `_pages/cv.md`
 
 About page:
 
