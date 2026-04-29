@@ -25,6 +25,14 @@ Decisions inferred from the repository as initialized:
 
 ---
 
+## 2026-04-29
+
+- **Publications section "Working Papers" renamed to "Academic Articles in Progress"** — The old label implied a specific stage; the new one better reflects that these are ongoing research projects at various stages.
+- **Working paper entries: no year, no status label** — `year` field omitted from `@unpublished` entries so no date appears on the site. Status notes ("In preparation", "In progress", "Working paper") also removed — differences between these were deemed artificial and not meaningful to readers.
+- **Abstracts for in-progress papers can come from RCT registrations** — Established with the psychological support paper (`majerowicz2025psych_support`). Acceptable to use registration text when no manuscript abstract exists yet.
+
+---
+
 ## Template for future entries
 
 - **Decision:** [what was decided]

@@ -54,6 +54,11 @@ Publications (papers to add to `_bibliography/papers.bib`):
 - [x] Update `_data/venues.yml` — The Economic Journal (TEJ), EEPA, Quantitative Economics (QE)
 - [x] Customize `_pages/publications.md` — sections: under review / working papers / policy reports
 - [x] Add abstract to QE article (`castro2025teaching`) — Stephanie to provide
+- [x] Add links to CGD policy reports (WP 261, WP 300, IDA Working Group Report) and ODI Colombia displacement report
+- [x] Add PDF and abstract to Oil-to-Cash book (CGD, 2015)
+- [x] Add abstract to psychological support paper — from RCT registration
+- [ ] Add links to two 2024 Ediciones Uniandes book chapters (`majerowicz2024colombia_movimiento`, `majerowicz2024coordinacion`) — needs Stephanie to supply URLs
+- [ ] Add abstract to Jóvenes a la U scholarship paper (`majerowicz2025jovenes_scholarship`) — paper in progress, no abstract yet
 
 ---
 
