@@ -67,12 +67,12 @@ Publications (papers to add to `_bibliography/papers.bib`):
 Add the website URL (`https://stephanie-majerowicz.github.io`) to Stephanie's profiles:
 
 - [ ] Uniandes faculty profile page
-- [ ] Twitter / X profile
-- [ ] LinkedIn profile
-- [ ] Google Scholar profile
-- [ ] ResearchGate profile
+- [x] Twitter / X profile
+- [x] LinkedIn profile
+- [x] Google Scholar profile
+- [ ] ResearchGate profile, if exists
 - [ ] SSRN profile
-- [ ] IDEAS/RePEc profile
+- [x] IDEAS/RePEc profile
 - [ ] Email signature
 
 ---
