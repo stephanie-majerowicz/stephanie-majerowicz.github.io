@@ -18,7 +18,7 @@ nav_order: 3
 
 {% bibliography --query @*[keywords=under_review] %}
 
-<h2>Working Papers</h2>
+<h2>Academic Articles in Progress</h2>
 
 {% bibliography --query @*[keywords=working_paper] %}
 
