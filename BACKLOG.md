@@ -110,6 +110,7 @@ Teaching page:
 - [x] SEO configuration — `robots.txt` verified (allows all crawlers, sitemap linked)
 - [x] SEO configuration — Google Search Console verification (HTML file + meta tag added)
 - [ ] SEO configuration — register Stephanie's Gmail account with Google Search Console
+- [ ] SEO configuration — submit sitemap to Google Search Console: `https://stephanie-majerowicz.github.io/sitemap.xml` (Christian is verified, can do this directly)
 - Fill in `_data/cv.yml` to enable interactive HTML CV page at `/cv/` (currently hidden from nav; PDF already works as download)
 
 ---
