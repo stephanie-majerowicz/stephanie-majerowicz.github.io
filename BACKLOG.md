@@ -88,7 +88,8 @@ Teaching page:
 - Set up Google Scholar citation auto-update workflow (currently configured for Einstein's ID)
 - [x] Add structured data / Open Graph metadata (`serve_og_meta`, `serve_schema_org` in `_config.yml`)
 - [x] SEO configuration — `robots.txt` verified (allows all crawlers, sitemap linked)
-- [ ] SEO configuration — Google Search Console verification (add ID to `_config.yml:83`)
+- [x] SEO configuration — Google Search Console verification (HTML file + meta tag added)
+- [ ] SEO configuration — register Stephanie's Gmail account with Google Search Console
 - Fill in `_data/cv.yml` to enable interactive HTML CV page at `/cv/` (currently hidden from nav; PDF already works as download)
 
 ---
