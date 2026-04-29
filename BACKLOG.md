@@ -66,6 +66,9 @@ Add the website URL (`https://stephanie-majerowicz.github.io`) to Stephanie's pr
 - [ ] LinkedIn profile
 - [ ] Google Scholar profile
 - [ ] ResearchGate profile
+- [ ] SSRN profile
+- [ ] IDEAS/RePEc profile
+- [ ] Email signature
 
 ---
 
