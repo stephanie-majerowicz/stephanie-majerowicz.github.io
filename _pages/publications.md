@@ -22,7 +22,7 @@ nav_order: 3
 
 {% bibliography --query @*[keywords=working_paper] %}
 
-<h2>Policy Reports</h2>
+<h2>Working Papers and Policy Reports</h2>
 
 {% bibliography --query @*[keywords=policy_report] %}
 
