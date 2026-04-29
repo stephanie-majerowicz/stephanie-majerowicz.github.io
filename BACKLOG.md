@@ -84,7 +84,7 @@ Teaching page:
 ## Later — break down when we get here
 
 - Customize publications page visual styling (grouping, badge display, author highlight color)
-- Decide on and implement a consistent color theme (`_sass/_themes.scss`)
+- Decide on and implement a consistent color theme (`_sass/_themes.scss`) — **ask Stephanie**: preference for a specific accent color, or use Uniandes red/dark red vs. something more neutral?
 - [x] Set up Google Scholar citation auto-update workflow (currently configured for Einstein's ID)
 - [x] Add structured data / Open Graph metadata (`serve_og_meta`, `serve_schema_org` in `_config.yml`)
 - [x] SEO configuration — `robots.txt` verified (allows all crawlers, sitemap linked)
