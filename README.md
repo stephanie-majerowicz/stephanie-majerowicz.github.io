@@ -4,6 +4,8 @@ Personal academic website of Stephanie Majerowicz, Economist at Universidad de l
 
 **Live site:** https://stephanie-majerowicz.github.io
 
+**Site backlog & to-do list:** [BACKLOG.md](BACKLOG.md)
+
 ---
 
 ## How the site works
