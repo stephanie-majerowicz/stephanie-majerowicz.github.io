@@ -57,6 +57,18 @@ Publications (papers to add to `_bibliography/papers.bib`):
 
 ---
 
+## Up next — promote the site
+
+Add the website URL (`https://stephanie-majerowicz.github.io`) to Stephanie's profiles:
+
+- [ ] Uniandes faculty profile page
+- [ ] Twitter / X profile
+- [ ] LinkedIn profile
+- [ ] Google Scholar profile
+- [ ] ResearchGate profile
+
+---
+
 ## Up next — needs Stephanie's content (other)
 
 Impact page:
