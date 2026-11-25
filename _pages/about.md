@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Assistant Professor, <a href="https://gobierno.uniandes.edu.co//">School of Government</a>,
+  Associate Professor, <a href="https://gobierno.uniandes.edu.co//">School of Government</a>,
   Universidad de los Andes, Bogotá
 
 profile:
@@ -26,7 +26,7 @@ latest_posts:
   enabled: false
 ---
 
-I am an Assistant Professor in the School of Government at the Universidad de los Andes, Colombia. I studied Economics and Political Science at Stanford University and received my PhD in Public Policy from Harvard University in 2019. I was a postdoctoral fellow at the briq Institute from 2019–2020, now part of the IZA network, where I am a research affiliate.
+I am an Associate Professor in the School of Government at the Universidad de los Andes, Colombia. I studied Economics and Political Science at Stanford University and received my PhD in Public Policy from Harvard University in 2019. I was a postdoctoral fellow at the briq Institute from 2019–2020, now part of the IZA network, where I am a research affiliate.
 
 I am an applied microeconomist working at the intersection of education, labor markets, and public policy in Latin America. My research focuses on understanding how investments in human capital—from early childhood to postsecondary education—translate into improved employability and reduced socioeconomic inequality. I study policies aimed at expanding access, improving quality, and facilitating transitions across the education system, with particular attention to vulnerable populations.
 
